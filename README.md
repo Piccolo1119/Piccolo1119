@@ -19,7 +19,6 @@ Here are some of the technologies and tools I work with:
 ![Angular](https://skillicons.dev/icons?i=angular)
 ![Spring](https://skillicons.dev/icons?i=spring)
 ![Vue.js](https://skillicons.dev/icons?i=vue)
-![Quasar](https://skillicons.dev/icons?i=quasar)
 ![Bootstrap](https://skillicons.dev/icons?i=bootstrap)
 
 ### Databases
@@ -39,7 +38,6 @@ Here are some of the technologies and tools I work with:
 ![Node.js](https://skillicons.dev/icons?i=nodejs)
 ![Bash](https://skillicons.dev/icons?i=bash)
 ![WordPress](https://skillicons.dev/icons?i=wordpress)
-![VirtualBox](https://skillicons.dev/icons?i=virtualbox)
 ![VS Code](https://skillicons.dev/icons?i=vscode)
 
 ## 📚 What I'm Learning
