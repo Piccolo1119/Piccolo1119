@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Julio]!
+# 👋 Hi, I'm Julio!
 
 ## ✨ About Me
 I'm a Full-Stack Web Developer passionate about technology, continuous learning, and creating solutions that make a difference. I enjoy working on projects that combine creativity and technology to solve real-world problems. Also, I'm a graduate in Criminology with substantial experience in this field. I'm looking forward to combining both disciplines to explore the field of cybersecurity, focusing on topics like threat analysis, vulnerability assessment, and secure software development. Meanwhile, I am deeply interested in exploring the world of application development, diving into areas such as mobile and desktop applications to expand my expertise and create impactful solutions.
@@ -50,7 +50,7 @@ I'm currently improving my skills in:
 ## 📫 Contact Me
 I would love to connect with you! You can find me at:
 
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/julio-v%C3%A1zquez-abarca-76194517a/)
+- LinkedIn: (https://www.linkedin.com/in/julio-v%C3%A1zquez-abarca-76194517a/)
 - Email: [juliovazquezabarca@gmail.com]
 
 ---
